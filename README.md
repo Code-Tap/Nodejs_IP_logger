@@ -10,11 +10,3 @@ run the program with:
 ```npm start```
 
 feel free to modify and share
-
-output of CSV looks like this
-
-| YYYY/MM/DD HH:mm:ss | <EXTERNAL IP> | <INTERNAL IP> |   |   |
-|---------------------|---------------|---------------|---|---|
-| YYYY/MM/DD HH:mm:ss | <EXTERNAL IP> | <INTERNAL IP> |   |   |
-| YYYY/MM/DD HH:mm:ss | <EXTERNAL IP> | <INTERNAL IP> |   |   |
-|                     |               |               |   |   |
